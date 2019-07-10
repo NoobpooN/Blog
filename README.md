@@ -1,5 +1,5 @@
 # 博客目录
-努力打造一系列适合初中级工程师能够看得懂的优质文章，今年博客侧重于react、node和webpack等入门与底层原理分析，如果想第一时间获取文章，欢迎关注**我的公众号：前端工匠，每周至少一篇高质量原创的文章，带你入门!**  
+努力打造一系列适合初中级工程师能够看得懂的优质文章，今年博客侧重于vue、node和webpack等底层原理分析，如果想第一时间获取文章，欢迎关注**我的公众号：前端工匠，每周至少一篇高质量原创的文章，带你入门!**  
 
 ### 版权声明：本文为博主原创文章，未经博主允许不得转载。
 
@@ -69,12 +69,14 @@
 #### 2.[从头开始学习vue-router](https://github.com/ljianshu/Blog/issues/39)
 #### 3.[vue组件三大核心概念](https://github.com/ljianshu/Blog/issues/67)
 #### 4.[vue组件间通信六种方式（完整版）](https://github.com/ljianshu/Blog/issues/66)
-#### 5.[vue计算属性和watch的区别]()
+#### 5.[vue计算属性和watch的区别](https://github.com/ljianshu/Blog/issues/68)
+#### 6.[揭秘Vue中的Virtual Dom](https://github.com/ljianshu/Blog/issues/69) 
+#### 7.[深入理解vue响应式原理](https://github.com/ljianshu/Blog/issues/70)
+- vue中如何解析模板(写作中)
 - Vue渲染函数与函数式组件(写作中)
-- vue 双向数据绑定实现原理(写作中)
 - 说说Vue的MVVM实现原理(写作中)
-- Virtual Dom原理(写作中)
-- 依赖收集追踪原理(写作中)
+
+
 
 ### |  工具
 #### 1.[如何在线预览 GitHub 项目](https://github.com/ljianshu/Blog/issues/52)
@@ -82,12 +84,12 @@
 #### 1.[vue全家桶制作一个精致的美团项目](https://github.com/ljianshu/Blog/issues/37)
 ### |  面试
 #### 1.[Javascript 面试核心考点(基础版)](https://github.com/ljianshu/Blog/issues/63)
+- 前端面试手写大合集(写作中)
 ### |  其他
 #### 1.[写技术博客那点事](https://github.com/ljianshu/Blog/issues/62)
 ### |  2019年写作计划(暂定)
 今年除了对觉得不满意的以往文章进行迭代，还打算至少写50篇原创高质量文章，目前预计会涉及到以下主题：
 - vue深入系列
-- react入门系列
 - node入门系列
 - webpack配置与原理
 - Grid布局总结
@@ -95,7 +97,6 @@
 - 原型与原型链
 - bind、call、apply的实现原理
 - 高阶函数
-- AST编译解析
 - JavaScript 柯里化
 - JavaScript设计模式
 - javascript面向对象编程
@@ -106,7 +107,6 @@
 - 性能优化
 - 骨架屏实现
 - Vue3.0新特性
-- vue与react对比
 - 前端数据结构与算法
 
 ### |  打赏
